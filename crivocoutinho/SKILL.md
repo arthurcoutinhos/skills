@@ -44,10 +44,20 @@ Mostre a ficha em uma tela e marque o que falta. O que falta vira pergunta na Et
 Objetivo: sair do clichê do segmento e ter base visual concreta antes das perguntas.
 
 1. Mapear o clichê: veja como 5 a 8 concorrentes diretos se comunicam (Biblioteca de Anúncios da Meta quando disponível, Instagram e sites via busca). Resuma em 3 linhas o que todo mundo do segmento faz igual. Isso é o que evitar.
-2. Buscar fora do segmento: editorial, moda, design gráfico, embalagem, campanhas premiadas, marcas de outros setores com posicionamento parecido. A melhor referência quase nunca vem do mesmo segmento.
-3. Mostrar, não descrever: apresente as referências como imagens reais (busca de imagens ou capturas), nunca só como texto.
-4. Organizar em 2 ou 3 direções distintas. Para cada uma: nome curto, 3 referências, o que pegar de cada uma (composição, luz, tipografia, cor, textura) e o risco da direção.
-5. Se a skill `fora-do-obvio` estiver disponível, use para testar as direções contra o clichê e contra a raiz real da marca.
+2. Buscar no Pinterest e no Behance pelo Chrome. Estas são as fontes principais de referência; não substitua por busca genérica de imagens quando o Chrome estiver disponível.
+   1. Carregue a skill do Claude in Chrome antes do primeiro passo no navegador.
+   2. Use apenas o Chrome do próprio usuário. Se houver mais de um Chrome conectado, pergunte qual é o dele antes de abrir qualquer aba.
+   3. Abra uma aba nova (nunca reutilize as abas do usuário) e use a sessão dele já logada. Nunca faça login, nunca salve pin, nunca siga perfil, nunca curta ou comente.
+   4. Monte de 3 a 5 buscas a partir do conceito, misturando inglês e português, e sempre com pelo menos duas buscas fora do segmento. Exemplo para hamburgueria premium: "burger packaging design", "editorial food photography dark", "brand identity restaurant typography", "japanese packaging minimal", "embalagem artesanal premium".
+   5. Behance para projetos completos: identidade, embalagem, sistema de peças, campanha. Endereço: behance.net/search/projects?search=TERMO
+   6. Pinterest para composição, luz, tratamento de foto, paleta e mood. Endereço: pinterest.com/search/pins/?q=TERMO
+   7. Role a página, escolha de 8 a 12 resultados fortes no total, abra o projeto ou pin quando precisar ver melhor e capture com zoom ou screenshot salvo em disco. Guarde o link de cada um.
+   8. Feche as abas que abriu ao terminar.
+   9. Sem Chrome disponível: use busca de imagens e entregue os links de busca prontos do Pinterest e do Behance para o usuário abrir.
+3. Buscar fora do segmento também nas outras fontes: editorial, moda, design gráfico, embalagem, campanhas premiadas, marcas de outros setores com posicionamento parecido. A melhor referência quase nunca vem do mesmo segmento.
+4. Mostrar, não descrever: apresente as referências como imagens reais (as capturas do Pinterest e do Behance, com o link de cada uma), nunca só como texto.
+5. Organizar em 2 ou 3 direções distintas. Para cada uma: nome curto, 3 referências, o que pegar de cada uma (composição, luz, tipografia, cor, textura) e o risco da direção.
+6. Se a skill `fora-do-obvio` estiver disponível, use para testar as direções contra o clichê e contra a raiz real da marca.
 
 Referência informa decisão, não vira molde. Nunca copie peça de ninguém.
 
