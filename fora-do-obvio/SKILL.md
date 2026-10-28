@@ -31,15 +31,15 @@ Procure o ativo único e verdadeiro do cliente. Fontes, em ordem de força:
 4. História real de como começou
 5. Hábito, mania ou detalhe físico marcante
 
-Exemplo de referência: Iasbeck Health Coach nasceu da origem libanesa (arabesco, arco árabe, lettering com sotaque oriental, personagem caricato). Kloster significa mosteiro em alemão, raiz de disciplina, rotina e irmandade.
+Exemplos hipotéticos: um personal trainer de sobrenome Ferreira tem como raiz o ofício do ferreiro, que fala de forja, força e paciência. Uma confeitaria cuja dona é filha de pescadores tem como raiz o mar, a rede e o trabalho de madrugada.
 
 ## Passo 3. Importar repertório de outro universo
 
-O conceito vem da raiz e usa o repertório visual e verbal de um universo fora do segmento (cultura, história, arte, ofício, arquitetura). Ex.: mosteiro traz arco gótico, vitral, capitular iluminada, selo de cera, pergaminho.
+O conceito vem da raiz e usa o repertório visual e verbal de um universo fora do segmento (cultura, história, arte, ofício, arquitetura). Ex.: a ferraria traz bigorna, faísca, ferro batido, marca feita a fogo e letreiro de oficina.
 
 ## Passo 4. Construir a ponte
 
-Ache um elemento que conecta o universo importado ao mundo do cliente sem usar clichê. Ex.: o capuz do moletom de treino é o capuz do monge. Nome de comunidade: Os Monges do Kloster.
+Ache um elemento que conecta o universo importado ao mundo do cliente sem usar clichê. Ex.: o treino é a forja e o aluno sai temperado. Nome de comunidade: A Forja.
 
 Sem ponte, o conceito fica bonito e desconectado do negócio.
 
@@ -47,7 +47,7 @@ Sem ponte, o conceito fica bonito e desconectado do negócio.
 
 Revise cada item da proposta contra a lista do Passo 1: nome, descritor, bio, slogan, nome de comunidade, paleta, tipografia, símbolo, tom.
 
-Se qualquer item bater com o clichê, reescreva. Erro mais comum: criar um conceito fora do padrão e depois vesti-lo com vocabulário do segmento (ex.: "KLOSTER Performance Coach", "Kloster Crew", preto e dourado). Isso anula o conceito.
+Se qualquer item bater com o clichê, reescreva. Erro mais comum: criar um conceito fora do padrão e depois vesti-lo com vocabulário do segmento (ex.: "FERREIRA Performance Coach", "Ferreira Crew", preto e dourado). Isso anula o conceito.
 
 Também verifique se a proposta não ecoa a referência que o cliente gostou (cor, padrão, moldura). Mesmo método, repertório diferente.
 
